@@ -22,10 +22,10 @@ body{
 }
 .azul{
     color: #302E2B;
-    font-size: calc(1rem + 3vw); 
+    font-size: calc(1rem + 4vw); 
 }
 .content{
-    font-size: calc(1rem + 3vw);
+    font-size: calc(1rem + 2vw);
     text-transform: uppercase;
     color: #302E2B;
     display: flex;
